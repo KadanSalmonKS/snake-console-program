@@ -1,3 +1,10 @@
+/*
+Created by Kadian Salmon
+Date: February 14, 2016
+Email: kadan_salmon@yahoo.com
+Purpose: Linked list demonstration
+*/
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<windows.h>
